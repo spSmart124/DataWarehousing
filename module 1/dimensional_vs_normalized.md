@@ -1,0 +1,2 @@
+Here is a youtube link that compares between dimensional (Kimball) vs normalized (Inmon) architecure of data warehousing. 
+![dimensional vs normalized data warehousing architecture](https://www.youtube.com/watch?v=Tff34jj_V-0)

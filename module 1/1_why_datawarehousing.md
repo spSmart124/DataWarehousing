@@ -6,13 +6,13 @@ A data warehouse has the following characteristics:
 
 * Subject-oriented: data is theme- or object-based (i.e., customer, product, sales, etc.)
 
-* Integrated: disparate data is combined and normalized from source systems
+* __Integrated__: disparate data is combined and normalized from source systems
 
-* Time-variant: data is organized by various time intervals for historical reporting and preservation (i.e., week, month, quarter, year)
+* __Time-variant__: data is organized by various time intervals for historical reporting and preservation (i.e., week, month, quarter, year)
 
-* Non-volatile: data is never changed or deleted; data is read-only and refreshed at well-defined time intervals
+* __Non-volatile__: data is never changed or deleted; data is read-only and refreshed at well-defined time intervals
 
-* Summarized: data is often aggregated for optimization of reporting
+* __Summarized__: data is often aggregated for optimization of reporting
 
 A data warehouse should include metadata, which is “data that describes data.” Metadata often includes data location, data structure, and parameters of valid values. Essentially, metadata acts as “a living dictionary” and documentation for the data warehouse.
 

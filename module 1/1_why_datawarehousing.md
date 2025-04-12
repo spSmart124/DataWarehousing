@@ -4,7 +4,7 @@ A data warehouse (DW) is a repository that stores relational data that is organi
 
 A data warehouse has the following characteristics:
 
-* Subject-oriented: data is theme- or object-based (i.e., customer, product, sales, etc.)
+* __Subject-oriented__: data is theme- or object-based (i.e., customer, product, sales, etc.)
 
 * __Integrated__: disparate data is combined and normalized from source systems
 

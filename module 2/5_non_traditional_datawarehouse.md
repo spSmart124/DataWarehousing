@@ -1,0 +1,10 @@
+#NoSQL, Big Data, Data Lakes, and Data Warehousing
+
+As opposed to the traditional relational database approach to data warehousing, NoSQL is an alternate approach that utilizes non-relational, unstructured databases. NoSQL can store data in any form because it is not limited by the strictly defined structures of relational databases. Because of the lack of clarity and requirements around the structure of the data, it is often not possible to develop a schema. Thus, NoSQL databases allow the flexibility to store and query unstructured data. This is accomplished through a document-oriented organization rather than the table-oriented organization of structured SQL databases. However, it is important to note that this type of data storage also requires additional processing and storage.
+
+Big data is a concept to address massive amounts of raw and unstructured data in various types and formats. It quickly becomes difficult for a data warehouse to manage this type of data strategy and the big data model attempts to resolve the issue. Due to the size, complexity, and dynamic nature of big data, data is often transformed during analysis and requires significant processing power.
+
+The relatively new concept of data lakes offers a decentralized approach to data storage and analysis rather than the centralized approach employed by traditional data warehouses. A data lake prefers to have raw data repositories of source operational or transactional systems available to analysts and data scientists rather than transforming and loading all data to a centralized repository. This concept provides a strategy for data storage and limits pre-processing and strict governance, which can certainly have both benefits and challenges for the organization. After data analysis and processing, the data in a data lake can be incorporated into a data warehouse for long-term storage and future analysis though a data lake is not necessarily a replacement for a data warehouse.
+
+Additional resource: 
+![Dimensional Modelling Techniques](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)

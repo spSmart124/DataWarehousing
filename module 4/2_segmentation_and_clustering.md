@@ -12,4 +12,4 @@ The pseudocode of the algorithm is as follows:
 * updating the mean
 
 Additional resource
-![K-means Algorithm](https://www.youtube.com/watch?v=0CZ8u6oEeqg)
+[![K-means Algorithm](https://img.youtube.com/vi/0CZ8u6oEeqg/hqdefault.jpg)](https://www.youtube.com/watch?v=0CZ8u6oEeqg)

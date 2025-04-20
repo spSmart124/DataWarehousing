@@ -18,5 +18,5 @@ Regression attempts to apply a predictive mathematical/statistical equation to a
 Given this formula, one can easily graph the regression model. This technique allows the analyst or data scientist to estimate the relationship between variables and predict the value of an output (dependent variable), given values for one or more inputs (independent variables). Often, linear regression provides enough confidence to estimate a range of potential values for the output.
 
 _Additional Resource_
-![Data science](https://builtin.com/data-science)
-![Better understand regression analysis](https://builtin.com/data-science/regression-machine-learning)
+[Data science](https://builtin.com/data-science)
+[Better understand regression analysis](https://builtin.com/data-science/regression-machine-learning)

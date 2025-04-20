@@ -11,5 +11,5 @@ The pseudocode of the algorithm is as follows:
 * assigning the item to the mean
 * updating the mean
 
-Additional resource
+### Additional resource to understand more about K-means algorithm
 [![K-means Algorithm](https://img.youtube.com/vi/0CZ8u6oEeqg/hqdefault.jpg)](https://www.youtube.com/watch?v=0CZ8u6oEeqg)

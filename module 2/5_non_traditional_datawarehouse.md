@@ -1,4 +1,4 @@
-#NoSQL, Big Data, Data Lakes, and Data Warehousing
+# NoSQL, Big Data, Data Lakes, and Data Warehousing
 
 As opposed to the traditional relational database approach to data warehousing, NoSQL is an alternate approach that utilizes non-relational, unstructured databases. NoSQL can store data in any form because it is not limited by the strictly defined structures of relational databases. Because of the lack of clarity and requirements around the structure of the data, it is often not possible to develop a schema. Thus, NoSQL databases allow the flexibility to store and query unstructured data. This is accomplished through a document-oriented organization rather than the table-oriented organization of structured SQL databases. However, it is important to note that this type of data storage also requires additional processing and storage.
 

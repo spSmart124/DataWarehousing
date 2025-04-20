@@ -10,3 +10,6 @@ The pseudocode of the algorithm is as follows:
 * finding the mean closest to the item
 * assigning the item to the mean
 * updating the mean
+
+Additional resource
+![K-means Algorithm](https://www.youtube.com/watch?v=0CZ8u6oEeqg)
